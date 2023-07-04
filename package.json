@@ -1,0 +1,23 @@
+{
+  "name": "frogwiki",
+  "version": "1.0.0",
+  "description": "새로 알게 된 용어들을 알파벳, 한글 순서대로 기록하고 서치할 수 있게 정리하는 페이지",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/about2weeks/FrogWiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/about2weeks/FrogWiki/issues"
+  },
+  "homepage": "https://github.com/about2weeks/FrogWiki#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
